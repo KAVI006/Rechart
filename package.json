@@ -1,0 +1,22 @@
+{
+  "name": "recharts-multi-data-using-accessor-function-forked",
+  "version": "0.0.0",
+  "description": "CodeSandbox to experiment the Recharts framework",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "d3-time": "latest",
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "recharts": "1.8.5"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
